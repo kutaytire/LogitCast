@@ -89,3 +89,7 @@ with a reasoning trace before the forecast.
   year   = {2026}
 }
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
